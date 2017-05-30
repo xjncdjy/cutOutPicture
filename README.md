@@ -6,4 +6,4 @@ _theWideth = 200; //裁剪的宽
 
 //可设置任意尺寸
 
-![image](picture https://github.com/xjncdjy/cutOutPicture/screenshots/screen.jpg) 
+![image](picture https://github.com/xjncdjy/cutOutPicture/blob/master/screenshots/screen.jpg) 
